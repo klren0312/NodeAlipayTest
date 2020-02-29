@@ -1,0 +1,4 @@
+module.exports = {
+  privateKey: '你的私钥',
+  alipayPublicKey: '你的支付宝公钥'
+}
